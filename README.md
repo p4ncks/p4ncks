@@ -1,23 +1,66 @@
-<h1 align="center">Hi 👋, I'm Felipe Kupfer</h1>
-<h3 align="center">A passionate Data Engineer from Brazil</h3>
+<div align="center">
 
-- 🔭 I’m currently working at **TCE-RJ as an Intern**
+<samp>DATA ENGINEERING · BRAZIL</samp>
 
-- 🌱 I’m currently learning **Software Engineering and sharpening my Data Engineering skills**
+# Felipe Kupfer
 
-- 👨‍💻 All of my projects are available at [https://github.com/p4ncks?tab=repositories](https://github.com/p4ncks?tab=repositories)
+### Curious about software. Passionate about data.
 
-- 📫 How to reach me **fkupfer.12@gmail.com or https://www.linkedin.com/in/felipe-kupfer-0823a8228/**
+Data Engineer · Intern at **TCE-RJ**
 
-- ⚡ Fun fact **I can name all 196 countries in countries of the world by jetpunk.com under 11 minutes.**
+<a href="https://github.com/p4ncks?tab=repositories"><strong>Explore my projects ↗</strong></a>
+&nbsp;&nbsp; / &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/felipe-kupfer-0823a8228/">LinkedIn</a>
+&nbsp;&nbsp; / &nbsp;&nbsp;
+<a href="mailto:fkupfer.12@gmail.com">Email me</a>
 
-<!--<h3 align="left">Connect with me:</h3> 
-<p align="left">
-</p>
--->
+<br>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<samp>SOFTWARE ENGINEERING &nbsp; → &nbsp; DATA ENGINEERING</samp>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/p4ncks"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/p4ncks" /></a></p><br><br>
+</div>
+
+---
+
+## 01 / The person behind the data
+
+Hi, I'm Felipe — a passionate **Data Engineer from Brazil**, currently working as an **intern at TCE-RJ**.
+
+I'm learning **Software Engineering** and sharpening my **Data Engineering** skills. You can explore all my projects in [my GitHub repositories](https://github.com/p4ncks?tab=repositories).
+
+## 02 / My toolbox
+
+| Area | Languages & tools |
+| :--- | :--- |
+| **Programming** | [Python](https://www.python.org/) |
+| **Databases** | [PostgreSQL](https://www.postgresql.org/) · [MySQL](https://www.mysql.com/) · [MariaDB](https://mariadb.org/) · [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server) · [Oracle](https://www.oracle.com/) · [SQLite](https://www.sqlite.org/) · [MongoDB](https://www.mongodb.com/) |
+| **Cloud** | [AWS](https://aws.amazon.com/) · [Microsoft Azure](https://azure.microsoft.com/en-in/) · [Google Cloud](https://cloud.google.com/) |
+| **Containers & systems** | [Docker](https://www.docker.com/) · [Kubernetes](https://kubernetes.io/) · [Linux](https://www.linux.org/) |
+| **Web** | [Django](https://www.djangoproject.com/) · [HTML5](https://www.w3.org/html/) · [CSS3](https://www.w3schools.com/css/) |
+| **Version control & browser automation** | [Git](https://git-scm.com/) · [Selenium](https://www.selenium.dev/) |
+| **Hardware** | [Arduino](https://www.arduino.cc/) |
+
+## 03 / A different kind of dataset
+
+> **196 countries. Under 11 minutes.** 🌍
+>
+> I can name all 196 countries in JetPunk's *Countries of the World* quiz in under 11 minutes.
+
+## 04 / Let's connect
+
+Find me on [LinkedIn](https://www.linkedin.com/in/felipe-kupfer-0823a8228/) or reach me at **[fkupfer.12@gmail.com](mailto:fkupfer.12@gmail.com)**.
+
+---
+
+<div align="center">
+
+<a href="https://github.com/p4ncks?tab=repositories">Projects</a>
+&nbsp; · &nbsp;
+<a href="https://www.linkedin.com/in/felipe-kupfer-0823a8228/">LinkedIn</a>
+&nbsp; · &nbsp;
+<a href="mailto:fkupfer.12@gmail.com">Email</a>
+&nbsp; · &nbsp;
+<a href="https://www.buymeacoffee.com/p4ncks">Buy me a coffee ☕</a>
+
+</div>
