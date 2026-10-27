@@ -17,7 +17,7 @@ Data Engineer · Intern at **TCE-RJ**
 <br>
 <br>
 
-<samp>DATA ENGINEERING &nbsp; → &nbsp; SOFTWARE ENGINEERING</samp>
+<samp>DATA ENGINEERING &nbsp; / &nbsp; SOFTWARE ENGINEERING</samp>
 
 </div>
 
